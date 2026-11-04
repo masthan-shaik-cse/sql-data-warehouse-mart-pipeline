@@ -1,0 +1,9 @@
+# Generated DuckDB databases
+*.duckdb
+*.duckdb.wal
+
+# Local tooling and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
